@@ -1,0 +1,17 @@
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/board/OccupantTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/e2e/framework/startup/StartupSteps.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/game/GameTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/board/SquareTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/sprite/SpriteTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/ui/BoardPanelTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/board/BoardTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/board/BasicSquare.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/e2e/framework/startup/StartupTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/board/BasicUnit.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/LauncherSmokeTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/board/BoardFactoryTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/integration/StartupSystemTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/level/CollisionInteractionMapTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/level/PlayerTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/npc/ghost/NavigationTest.java
+/home/xico2001pt/Desktop/TVVS/exercises/week6/jpacman/src/test/java/nl/tudelft/jpacman/level/LevelTest.java

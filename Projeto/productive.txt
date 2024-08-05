@@ -1,0 +1,4 @@
+a mutant is productive if:
+1) the mutant is killable, meaning that the test exercites that piece of code and a bug could not be detected if that test was not made.
+OR
+2) the source code could be written in any other way which would make the mutant disappear, expanding the knowledge of the programmer about the code.

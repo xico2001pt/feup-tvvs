@@ -1,0 +1,87 @@
+@options
+@packages
+-classpath
+'/home/xico2001pt/.m2/repository/com/google/guava/guava/24.1-jre/guava-24.1-jre.jar:/home/xico2001pt/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/xico2001pt/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/xico2001pt/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/xico2001pt/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/xico2001pt/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/xico2001pt/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/home/xico2001pt/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/xico2001pt/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/home/xico2001pt/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/xico2001pt/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/home/xico2001pt/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar:/home/xico2001pt/.m2/repository/org/junit/vintage/junit-vintage-engine/5.9.1/junit-vintage-engine-5.9.1.jar:/home/xico2001pt/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.1/junit-jupiter-params-5.9.1.jar:/home/xico2001pt/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/xico2001pt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/xico2001pt/.m2/repository/org/mockito/mockito-core/2.18.0/mockito-core-2.18.0.jar:/home/xico2001pt/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/home/xico2001pt/.m2/repository/net/bytebuddy/byte-buddy-agent/1.8.3/byte-buddy-agent-1.8.3.jar:/home/xico2001pt/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:/home/xico2001pt/.m2/repository/org/assertj/assertj-core/3.9.1/assertj-core-3.9.1.jar:/home/xico2001pt/.m2/repository/info/cukes/cucumber-java/1.2.5/cucumber-java-1.2.5.jar:/home/xico2001pt/.m2/repository/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar:/home/xico2001pt/.m2/repository/info/cukes/cucumber-html/0.2.3/cucumber-html-0.2.3.jar:/home/xico2001pt/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar:/home/xico2001pt/.m2/repository/info/cukes/gherkin/2.12.2/gherkin-2.12.2.jar:/home/xico2001pt/.m2/repository/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/src/main/java:/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023 <a href="http://www.tudelft.nl">Delft University of Technology</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jpacman-framework 8.1.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'jpacman-framework 8.1.1 API'
+nl.tudelft.jpacman
+nl.tudelft.jpacman.game
+nl.tudelft.jpacman.board
+nl.tudelft.jpacman.level
+nl.tudelft.jpacman.npc
+nl.tudelft.jpacman.npc.ghost
+nl.tudelft.jpacman.sprite
+nl.tudelft.jpacman.ui
+/home/xico2001pt/.m2/repository/com/google/guava/guava/24.1-jre/guava-24.1-jre.jar = 1696417305646
+/home/xico2001pt/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar = 1696417283478
+/home/xico2001pt/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar = 1696417283706
+/home/xico2001pt/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar = 1696417283518
+/home/xico2001pt/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar = 1696417283590
+/home/xico2001pt/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar = 1696417283590
+/home/xico2001pt/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar = 1696417284750
+/home/xico2001pt/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar = 1696417283662
+/home/xico2001pt/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar = 1696417283830
+/home/xico2001pt/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar = 1696417283810
+/home/xico2001pt/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar = 1696417285226
+/home/xico2001pt/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar = 1696417285318
+/home/xico2001pt/.m2/repository/org/junit/vintage/junit-vintage-engine/5.9.1/junit-vintage-engine-5.9.1.jar = 1696417284082
+/home/xico2001pt/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.1/junit-jupiter-params-5.9.1.jar = 1696417287366
+/home/xico2001pt/.m2/repository/junit/junit/4.12/junit-4.12.jar = 1696417287126
+/home/xico2001pt/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar = 1696417285594
+/home/xico2001pt/.m2/repository/org/mockito/mockito-core/2.18.0/mockito-core-2.18.0.jar = 1696417289598
+/home/xico2001pt/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar = 1696417306778
+/home/xico2001pt/.m2/repository/net/bytebuddy/byte-buddy-agent/1.8.3/byte-buddy-agent-1.8.3.jar = 1696417287382
+/home/xico2001pt/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar = 1696417287794
+/home/xico2001pt/.m2/repository/org/assertj/assertj-core/3.9.1/assertj-core-3.9.1.jar = 1696417314118
+/home/xico2001pt/.m2/repository/info/cukes/cucumber-java/1.2.5/cucumber-java-1.2.5.jar = 1696417289726
+/home/xico2001pt/.m2/repository/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar = 1696417291618
+/home/xico2001pt/.m2/repository/info/cukes/cucumber-html/0.2.3/cucumber-html-0.2.3.jar = 1696417290790
+/home/xico2001pt/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar = 1696417296110
+/home/xico2001pt/.m2/repository/info/cukes/gherkin/2.12.2/gherkin-2.12.2.jar = 1696417304470
+/home/xico2001pt/.m2/repository/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.jar = 1696417296370
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/src/main/java = 1663901298000
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/generated-sources/annotations = 1696417436404
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/overview-summary.html = 1696426154931
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/index-all.html = 1696426154903
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/deprecated-list.html = 1696426154919
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/type-search-index.js = 1696426154899
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/allclasses-index.html = 1696426154911
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/help-doc.html = 1696426154931
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/element-list = 1696426154551
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/stylesheet.css = 1696426154935
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/script.js = 1696426154935
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/jquery-ui.overrides.css = 1696426154943
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/overview-tree.html = 1696426154855
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/package-search-index.js = 1696426154899
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/index.html = 1696426154931
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/package-search-index.zip = 1696426154899
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/type-search-index.zip = 1696426154899
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/constant-values.html = 1696426154615
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/allclasses.html = 1696426154923
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/member-search-index.js = 1696426154899
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/search.js = 1696426154935
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/allpackages-index.html = 1696426154915
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/serialized-form.html = 1696426154623
+/home/xico2001pt/Desktop/TVVS/exercises/recitation-1-jpacman/jpacman/target/site/apidocs/member-search-index.zip = 1696426154903
